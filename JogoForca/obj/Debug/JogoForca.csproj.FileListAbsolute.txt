@@ -1,0 +1,13 @@
+C:\Users\020551631\Desktop\JogoForca\bin\Debug\JogoForca.exe.config
+C:\Users\020551631\Desktop\JogoForca\bin\Debug\JogoForca.exe
+C:\Users\020551631\Desktop\JogoForca\bin\Debug\JogoForca.pdb
+C:\Users\020551631\Desktop\JogoForca\obj\Debug\JogoForca.csproj.AssemblyReference.cache
+C:\Users\020551631\Desktop\JogoForca\obj\Debug\JogoForca.Form1.resources
+C:\Users\020551631\Desktop\JogoForca\obj\Debug\JogoForca.Properties.Resources.resources
+C:\Users\020551631\Desktop\JogoForca\obj\Debug\JogoForca.csproj.GenerateResource.cache
+C:\Users\020551631\Desktop\JogoForca\obj\Debug\JogoForca.csproj.CoreCompileInputs.cache
+C:\Users\020551631\Desktop\JogoForca\obj\Debug\JogoForca.exe
+C:\Users\020551631\Desktop\JogoForca\obj\Debug\JogoForca.pdb
+C:\Users\020551631\Desktop\JogoForca\bin\Debug\Newtonsoft.Json.dll
+C:\Users\020551631\Desktop\JogoForca\bin\Debug\Newtonsoft.Json.xml
+C:\Users\020551631\Desktop\JogoForca\obj\Debug\JogoForca.csproj.CopyComplete
